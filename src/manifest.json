@@ -1,8 +1,8 @@
 {
 	"manifest_version": 3,
 	"name": "Netflix-Playback-Features",
-	"description": "Hotpatches Netflix cadmium-playercore.js to enhance features",
-	"version": "0.0.2",
+	"description": "Hotpatch for Netflix cadmium-playercore.js to enhance features",
+	"version": "0.0.3",
 	"author": "Retr0id",
 	"web_accessible_resources": [{
 		"resources": [ "cadmium-playercore-shim.js" ],
